@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinosaurs", "Dinosaurs.csproj", "{8CC67FDD-600A-47B1-9D90-83A1E21AA65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC67FDD-600A-47B1-9D90-83A1E21AA65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC67FDD-600A-47B1-9D90-83A1E21AA65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC67FDD-600A-47B1-9D90-83A1E21AA65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC67FDD-600A-47B1-9D90-83A1E21AA65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8F6DFC-3BA9-4472-9D26-CD011937FCBF}
+	EndGlobalSection
+EndGlobal

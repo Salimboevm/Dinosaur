@@ -1,0 +1,13 @@
+D:\Projects\Upwork\Dinosaurs\bin\Debug\netcoreapp3.1\Dinosaurs.exe
+D:\Projects\Upwork\Dinosaurs\bin\Debug\netcoreapp3.1\Dinosaurs.deps.json
+D:\Projects\Upwork\Dinosaurs\bin\Debug\netcoreapp3.1\Dinosaurs.runtimeconfig.json
+D:\Projects\Upwork\Dinosaurs\bin\Debug\netcoreapp3.1\Dinosaurs.runtimeconfig.dev.json
+D:\Projects\Upwork\Dinosaurs\bin\Debug\netcoreapp3.1\Dinosaurs.dll
+D:\Projects\Upwork\Dinosaurs\bin\Debug\netcoreapp3.1\Dinosaurs.pdb
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.csprojAssemblyReference.cache
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.csproj.CoreCompileInputs.cache
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.AssemblyInfoInputs.cache
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.AssemblyInfo.cs
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.dll
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.pdb
+D:\Projects\Upwork\Dinosaurs\obj\Debug\netcoreapp3.1\Dinosaurs.genruntimeconfig.cache
